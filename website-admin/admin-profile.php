@@ -163,8 +163,8 @@ if($_GET['subcat']=='add-admin-profile'){
 			<tr>
 				<th>S.N</th>
 				<th>Full Name</th>
-				
 				<th>email</th>
+				<th>Role</th>
 				<th>Status</th>
 				<th>Edit</th>
 				<th>Delete</th>
